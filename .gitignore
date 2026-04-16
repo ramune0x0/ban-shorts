@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+dist/
+*.egg-info/
+docs/wip/
+.DS_Store
+
+# Chrome extension build artifacts
+*.crx
+*.pem
